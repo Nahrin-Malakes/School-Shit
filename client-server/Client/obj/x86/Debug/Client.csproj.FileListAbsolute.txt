@@ -1,0 +1,6 @@
+D:\Visual Studio 2010\Projects\client-server\Client\bin\Debug\Client.exe
+D:\Visual Studio 2010\Projects\client-server\Client\bin\Debug\Client.pdb
+D:\Visual Studio 2010\Projects\client-server\Client\obj\x86\Debug\Client.Properties.Resources.resources
+D:\Visual Studio 2010\Projects\client-server\Client\obj\x86\Debug\Client.csproj.GenerateResource.Cache
+D:\Visual Studio 2010\Projects\client-server\Client\obj\x86\Debug\Client.exe
+D:\Visual Studio 2010\Projects\client-server\Client\obj\x86\Debug\Client.pdb

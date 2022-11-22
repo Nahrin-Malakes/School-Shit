@@ -1,0 +1,7 @@
+D:\Visual Studio 2010\Projects\client-server\Server\bin\Debug\Server.exe
+D:\Visual Studio 2010\Projects\client-server\Server\bin\Debug\Server.pdb
+D:\Visual Studio 2010\Projects\client-server\Server\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+D:\Visual Studio 2010\Projects\client-server\Server\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Visual Studio 2010\Projects\client-server\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+D:\Visual Studio 2010\Projects\client-server\Server\obj\x86\Debug\Server.exe
+D:\Visual Studio 2010\Projects\client-server\Server\obj\x86\Debug\Server.pdb
